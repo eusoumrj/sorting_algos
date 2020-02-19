@@ -1,0 +1,72 @@
+---------
+Ordenações em C++
+---------
+
+Nos arquivos .zip, estão os arquivos .cpp com os códigos dos ordenadores, bem como 
+os compilados .out
+Esses códigos foram implementados e compilados no Manjaro (Arch Linux) com o pacote
+g++ como compilador.
+---------
+
+---------
+Escolhendo o tamanho do array
+---------
+
+Em cada um dos arquivos .cpp, dentro do método main(), existe uma variável <size>.
+Substitua o valor dela pelo tamanho do array desejado.
+---------
+
+---------
+1 - MergeSort
+---------
+
+--> Para executar os códigos a partir do .cpp no terminal de comando:
+1 - Navegue até o diretório do arquivo.
+2 - Execute o seguinte comando:
+
+	g++ mergesort.cpp -o mergesort.out
+	
+3 - Execute o compilado com o comando:
+
+	./mergesort.out
+	
+4 - Os tempos de cada repetição serão exibidos na tela, bem como armazenados em texto no arquivo <time_records_merge.txt>
+---------
+
+
+---------
+2 - QuickSort
+---------
+
+--> Para executar os códigos a partir do .cpp no terminal de comando:
+1 - Navegue até o diretório do arquivo.
+2 - Execute o seguinte comando:
+
+	g++ quicksort.cpp -o quicksort.out
+	
+3 - Execute o compilado com o comando:
+
+	./quicksort.out
+	
+4 - Os tempos de cada repetição serão exibidos na tela, bem como armazenados em texto no arquivo <time_records_quick.txt>
+---------
+
+---------
+3 - InsertionSort
+---------
+
+--> Para executar os códigos a partir do .cpp no terminal de comando:
+1 - Navegue até o diretório do arquivo.
+2 - Execute o seguinte comando:
+
+	g++ insertionsort.cpp -o inseertionsort.out
+	
+3 - Execute o compilado com o comando:
+
+	./insertionsort.out
+	
+4 - Os tempos de cada repetição serão exibidos na tela, bem como armazenados em texto no arquivo <time_records_insertion.txt>
+---------
+
+
+
