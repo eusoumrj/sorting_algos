@@ -1,0 +1,28 @@
+Manual para rodar os programas em java
+1º Deve-se ter o JDK instalado na máquina
+2º Alterar o valor do N dentro do algoritmo para o número desejado (n=10000 até n=100000000)
+3º Executar a linha de comando dentro da pasta que contém o arquivo em java
+
+Para o InsertionSort:
+
+"javac InsertionSort.java"
+Gerará o arquivo InsertionSort.class
+Após isso executar o programa:
+"java InsertionSort"
+
+Para o QuickSort:
+
+"javac QuickSort.java"
+Gerará o arquivo QuickSort.class
+Após isso executar o programa:
+"java QuickSort"
+
+Para o MergeSort:
+
+"javac MergeSort.java"
+Gerará o arquivo MergeSort.class
+Após isso executar o programa:
+"java MergeSort"
+
+obs: As vezes para rodar o algoritmo, há a necessidade de adicionar mais memória, para isso, basta executar o código abaixo:
+"java -Xmx2048m MergeSort" -> Esse código irá adicionar 2048 de memória para rodar o programa MergeSort

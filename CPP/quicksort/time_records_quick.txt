@@ -1,0 +1,1400 @@
+Quick Sort - Execução nº 1 
+1000 elementos. 
+Tempo de execução: 0.000197969 s
+
+Quick Sort - Execução nº 2 
+1000 elementos. 
+Tempo de execução: 0.000161281 s
+
+Quick Sort - Execução nº 3 
+1000 elementos. 
+Tempo de execução: 0.000164205 s
+
+Quick Sort - Execução nº 4 
+1000 elementos. 
+Tempo de execução: 0.000164107 s
+
+Quick Sort - Execução nº 5 
+1000 elementos. 
+Tempo de execução: 0.000165748 s
+
+Quick Sort - Execução nº 6 
+1000 elementos. 
+Tempo de execução: 0.000164623 s
+
+Quick Sort - Execução nº 7 
+1000 elementos. 
+Tempo de execução: 0.000159791 s
+
+Quick Sort - Execução nº 8 
+1000 elementos. 
+Tempo de execução: 0.000164854 s
+
+Quick Sort - Execução nº 9 
+1000 elementos. 
+Tempo de execução: 0.000158397 s
+
+Quick Sort - Execução nº 10 
+1000 elementos. 
+Tempo de execução: 0.000156647 s
+
+Quick Sort - Execução nº 11 
+1000 elementos. 
+Tempo de execução: 0.000159057 s
+
+Quick Sort - Execução nº 12 
+1000 elementos. 
+Tempo de execução: 0.000161449 s
+
+Quick Sort - Execução nº 13 
+1000 elementos. 
+Tempo de execução: 0.000150776 s
+
+Quick Sort - Execução nº 14 
+1000 elementos. 
+Tempo de execução: 0.000147124 s
+
+Quick Sort - Execução nº 15 
+1000 elementos. 
+Tempo de execução: 0.000142374 s
+
+Quick Sort - Execução nº 16 
+1000 elementos. 
+Tempo de execução: 0.000124607 s
+
+Quick Sort - Execução nº 17 
+1000 elementos. 
+Tempo de execução: 0.000122293 s
+
+Quick Sort - Execução nº 18 
+1000 elementos. 
+Tempo de execução: 0.000123913 s
+
+Quick Sort - Execução nº 19 
+1000 elementos. 
+Tempo de execução: 0.000127218 s
+
+Quick Sort - Execução nº 20 
+1000 elementos. 
+Tempo de execução: 0.000130028 s
+
+Quick Sort - Execução nº 21 
+1000 elementos. 
+Tempo de execução: 0.000125157 s
+
+Quick Sort - Execução nº 22 
+1000 elementos. 
+Tempo de execução: 0.000122943 s
+
+Quick Sort - Execução nº 23 
+1000 elementos. 
+Tempo de execução: 0.000150842 s
+
+Quick Sort - Execução nº 24 
+1000 elementos. 
+Tempo de execução: 0.000124968 s
+
+Quick Sort - Execução nº 25 
+1000 elementos. 
+Tempo de execução: 0.000124268 s
+
+Quick Sort - Execução nº 26 
+1000 elementos. 
+Tempo de execução: 0.000125976 s
+
+Quick Sort - Execução nº 27 
+1000 elementos. 
+Tempo de execução: 0.000123765 s
+
+Quick Sort - Execução nº 28 
+1000 elementos. 
+Tempo de execução: 0.000123961 s
+
+Quick Sort - Execução nº 29 
+1000 elementos. 
+Tempo de execução: 0.000125476 s
+
+Quick Sort - Execução nº 30 
+1000 elementos. 
+Tempo de execução: 0.000122099 s
+
+Quick Sort - Execução nº 31 
+1000 elementos. 
+Tempo de execução: 0.0001225 s
+
+Quick Sort - Execução nº 32 
+1000 elementos. 
+Tempo de execução: 0.000122449 s
+
+Quick Sort - Execução nº 33 
+1000 elementos. 
+Tempo de execução: 0.000129099 s
+
+Quick Sort - Execução nº 34 
+1000 elementos. 
+Tempo de execução: 0.000123228 s
+
+Quick Sort - Execução nº 35 
+1000 elementos. 
+Tempo de execução: 0.000122325 s
+
+Quick Sort - Execução nº 36 
+1000 elementos. 
+Tempo de execução: 0.000120619 s
+
+Quick Sort - Execução nº 37 
+1000 elementos. 
+Tempo de execução: 0.000189563 s
+
+Quick Sort - Execução nº 38 
+1000 elementos. 
+Tempo de execução: 9.2444e-05 s
+
+Quick Sort - Execução nº 39 
+1000 elementos. 
+Tempo de execução: 7.6624e-05 s
+
+Quick Sort - Execução nº 40 
+1000 elementos. 
+Tempo de execução: 7.6567e-05 s
+
+Quick Sort - Execução nº 41 
+1000 elementos. 
+Tempo de execução: 7.4134e-05 s
+
+Quick Sort - Execução nº 42 
+1000 elementos. 
+Tempo de execução: 7.474e-05 s
+
+Quick Sort - Execução nº 43 
+1000 elementos. 
+Tempo de execução: 7.6521e-05 s
+
+Quick Sort - Execução nº 44 
+1000 elementos. 
+Tempo de execução: 7.5221e-05 s
+
+Quick Sort - Execução nº 45 
+1000 elementos. 
+Tempo de execução: 7.5598e-05 s
+
+Quick Sort - Execução nº 46 
+1000 elementos. 
+Tempo de execução: 7.5465e-05 s
+
+Quick Sort - Execução nº 47 
+1000 elementos. 
+Tempo de execução: 7.4893e-05 s
+
+Quick Sort - Execução nº 48 
+1000 elementos. 
+Tempo de execução: 7.7163e-05 s
+
+Quick Sort - Execução nº 49 
+1000 elementos. 
+Tempo de execução: 7.643e-05 s
+
+Quick Sort - Execução nº 50 
+1000 elementos. 
+Tempo de execução: 7.4397e-05 s
+
+Quick Sort - Execução nº 1 
+10000 elementos. 
+Tempo de execução: 0.00224631 s
+
+Quick Sort - Execução nº 2 
+10000 elementos. 
+Tempo de execução: 0.00177295 s
+
+Quick Sort - Execução nº 3 
+10000 elementos. 
+Tempo de execução: 0.00113074 s
+
+Quick Sort - Execução nº 4 
+10000 elementos. 
+Tempo de execução: 0.00111589 s
+
+Quick Sort - Execução nº 5 
+10000 elementos. 
+Tempo de execução: 0.00112232 s
+
+Quick Sort - Execução nº 6 
+10000 elementos. 
+Tempo de execução: 0.00112252 s
+
+Quick Sort - Execução nº 7 
+10000 elementos. 
+Tempo de execução: 0.00110791 s
+
+Quick Sort - Execução nº 8 
+10000 elementos. 
+Tempo de execução: 0.00111041 s
+
+Quick Sort - Execução nº 9 
+10000 elementos. 
+Tempo de execução: 0.00113898 s
+
+Quick Sort - Execução nº 10 
+10000 elementos. 
+Tempo de execução: 0.00105037 s
+
+Quick Sort - Execução nº 11 
+10000 elementos. 
+Tempo de execução: 0.000959323 s
+
+Quick Sort - Execução nº 12 
+10000 elementos. 
+Tempo de execução: 0.000933022 s
+
+Quick Sort - Execução nº 13 
+10000 elementos. 
+Tempo de execução: 0.000965648 s
+
+Quick Sort - Execução nº 14 
+10000 elementos. 
+Tempo de execução: 0.00100397 s
+
+Quick Sort - Execução nº 15 
+10000 elementos. 
+Tempo de execução: 0.00100411 s
+
+Quick Sort - Execução nº 16 
+10000 elementos. 
+Tempo de execução: 0.000976978 s
+
+Quick Sort - Execução nº 17 
+10000 elementos. 
+Tempo de execução: 0.00144666 s
+
+Quick Sort - Execução nº 18 
+10000 elementos. 
+Tempo de execução: 0.000979186 s
+
+Quick Sort - Execução nº 19 
+10000 elementos. 
+Tempo de execução: 0.000979693 s
+
+Quick Sort - Execução nº 20 
+10000 elementos. 
+Tempo de execução: 0.000976404 s
+
+Quick Sort - Execução nº 21 
+10000 elementos. 
+Tempo de execução: 0.00097445 s
+
+Quick Sort - Execução nº 22 
+10000 elementos. 
+Tempo de execução: 0.000982695 s
+
+Quick Sort - Execução nº 23 
+10000 elementos. 
+Tempo de execução: 0.000965709 s
+
+Quick Sort - Execução nº 24 
+10000 elementos. 
+Tempo de execução: 0.000988853 s
+
+Quick Sort - Execução nº 25 
+10000 elementos. 
+Tempo de execução: 0.000960765 s
+
+Quick Sort - Execução nº 26 
+10000 elementos. 
+Tempo de execução: 0.000946694 s
+
+Quick Sort - Execução nº 27 
+10000 elementos. 
+Tempo de execução: 0.000953212 s
+
+Quick Sort - Execução nº 28 
+10000 elementos. 
+Tempo de execução: 0.00101252 s
+
+Quick Sort - Execução nº 29 
+10000 elementos. 
+Tempo de execução: 0.00103406 s
+
+Quick Sort - Execução nº 30 
+10000 elementos. 
+Tempo de execução: 0.00103823 s
+
+Quick Sort - Execução nº 31 
+10000 elementos. 
+Tempo de execução: 0.000991823 s
+
+Quick Sort - Execução nº 32 
+10000 elementos. 
+Tempo de execução: 0.000972362 s
+
+Quick Sort - Execução nº 33 
+10000 elementos. 
+Tempo de execução: 0.000968248 s
+
+Quick Sort - Execução nº 34 
+10000 elementos. 
+Tempo de execução: 0.000959917 s
+
+Quick Sort - Execução nº 35 
+10000 elementos. 
+Tempo de execução: 0.000957883 s
+
+Quick Sort - Execução nº 36 
+10000 elementos. 
+Tempo de execução: 0.000976919 s
+
+Quick Sort - Execução nº 37 
+10000 elementos. 
+Tempo de execução: 0.00100294 s
+
+Quick Sort - Execução nº 38 
+10000 elementos. 
+Tempo de execução: 0.000942867 s
+
+Quick Sort - Execução nº 39 
+10000 elementos. 
+Tempo de execução: 0.00093935 s
+
+Quick Sort - Execução nº 40 
+10000 elementos. 
+Tempo de execução: 0.000990417 s
+
+Quick Sort - Execução nº 41 
+10000 elementos. 
+Tempo de execução: 0.000935224 s
+
+Quick Sort - Execução nº 42 
+10000 elementos. 
+Tempo de execução: 0.000926846 s
+
+Quick Sort - Execução nº 43 
+10000 elementos. 
+Tempo de execução: 0.000987416 s
+
+Quick Sort - Execução nº 44 
+10000 elementos. 
+Tempo de execução: 0.0010017 s
+
+Quick Sort - Execução nº 45 
+10000 elementos. 
+Tempo de execução: 0.00108957 s
+
+Quick Sort - Execução nº 46 
+10000 elementos. 
+Tempo de execução: 0.00097306 s
+
+Quick Sort - Execução nº 47 
+10000 elementos. 
+Tempo de execução: 0.000951699 s
+
+Quick Sort - Execução nº 48 
+10000 elementos. 
+Tempo de execução: 0.000977588 s
+
+Quick Sort - Execução nº 49 
+10000 elementos. 
+Tempo de execução: 0.00101362 s
+
+Quick Sort - Execução nº 50 
+10000 elementos. 
+Tempo de execução: 0.000983338 s
+
+Quick Sort - Execução nº 1 
+100000 elementos. 
+Tempo de execução: 0.0180138 s
+
+Quick Sort - Execução nº 2 
+100000 elementos. 
+Tempo de execução: 0.0116764 s
+
+Quick Sort - Execução nº 3 
+100000 elementos. 
+Tempo de execução: 0.0116803 s
+
+Quick Sort - Execução nº 4 
+100000 elementos. 
+Tempo de execução: 0.0116869 s
+
+Quick Sort - Execução nº 5 
+100000 elementos. 
+Tempo de execução: 0.0117831 s
+
+Quick Sort - Execução nº 6 
+100000 elementos. 
+Tempo de execução: 0.0117454 s
+
+Quick Sort - Execução nº 7 
+100000 elementos. 
+Tempo de execução: 0.0116919 s
+
+Quick Sort - Execução nº 8 
+100000 elementos. 
+Tempo de execução: 0.0118915 s
+
+Quick Sort - Execução nº 9 
+100000 elementos. 
+Tempo de execução: 0.0117733 s
+
+Quick Sort - Execução nº 10 
+100000 elementos. 
+Tempo de execução: 0.0115684 s
+
+Quick Sort - Execução nº 11 
+100000 elementos. 
+Tempo de execução: 0.01131 s
+
+Quick Sort - Execução nº 12 
+100000 elementos. 
+Tempo de execução: 0.011673 s
+
+Quick Sort - Execução nº 13 
+100000 elementos. 
+Tempo de execução: 0.0113154 s
+
+Quick Sort - Execução nº 14 
+100000 elementos. 
+Tempo de execução: 0.0117723 s
+
+Quick Sort - Execução nº 15 
+100000 elementos. 
+Tempo de execução: 0.0116576 s
+
+Quick Sort - Execução nº 16 
+100000 elementos. 
+Tempo de execução: 0.0117374 s
+
+Quick Sort - Execução nº 17 
+100000 elementos. 
+Tempo de execução: 0.011575 s
+
+Quick Sort - Execução nº 18 
+100000 elementos. 
+Tempo de execução: 0.0117208 s
+
+Quick Sort - Execução nº 19 
+100000 elementos. 
+Tempo de execução: 0.0116671 s
+
+Quick Sort - Execução nº 20 
+100000 elementos. 
+Tempo de execução: 0.0116205 s
+
+Quick Sort - Execução nº 21 
+100000 elementos. 
+Tempo de execução: 0.011176 s
+
+Quick Sort - Execução nº 22 
+100000 elementos. 
+Tempo de execução: 0.0117756 s
+
+Quick Sort - Execução nº 23 
+100000 elementos. 
+Tempo de execução: 0.0115295 s
+
+Quick Sort - Execução nº 24 
+100000 elementos. 
+Tempo de execução: 0.0114895 s
+
+Quick Sort - Execução nº 25 
+100000 elementos. 
+Tempo de execução: 0.0116471 s
+
+Quick Sort - Execução nº 26 
+100000 elementos. 
+Tempo de execução: 0.0117441 s
+
+Quick Sort - Execução nº 27 
+100000 elementos. 
+Tempo de execução: 0.0115274 s
+
+Quick Sort - Execução nº 28 
+100000 elementos. 
+Tempo de execução: 0.0118365 s
+
+Quick Sort - Execução nº 29 
+100000 elementos. 
+Tempo de execução: 0.0113843 s
+
+Quick Sort - Execução nº 30 
+100000 elementos. 
+Tempo de execução: 0.0116696 s
+
+Quick Sort - Execução nº 31 
+100000 elementos. 
+Tempo de execução: 0.011572 s
+
+Quick Sort - Execução nº 32 
+100000 elementos. 
+Tempo de execução: 0.0115775 s
+
+Quick Sort - Execução nº 33 
+100000 elementos. 
+Tempo de execução: 0.011133 s
+
+Quick Sort - Execução nº 34 
+100000 elementos. 
+Tempo de execução: 0.0114277 s
+
+Quick Sort - Execução nº 35 
+100000 elementos. 
+Tempo de execução: 0.0118679 s
+
+Quick Sort - Execução nº 36 
+100000 elementos. 
+Tempo de execução: 0.0116583 s
+
+Quick Sort - Execução nº 37 
+100000 elementos. 
+Tempo de execução: 0.0112444 s
+
+Quick Sort - Execução nº 38 
+100000 elementos. 
+Tempo de execução: 0.0114389 s
+
+Quick Sort - Execução nº 39 
+100000 elementos. 
+Tempo de execução: 0.0118197 s
+
+Quick Sort - Execução nº 40 
+100000 elementos. 
+Tempo de execução: 0.0117628 s
+
+Quick Sort - Execução nº 41 
+100000 elementos. 
+Tempo de execução: 0.0114511 s
+
+Quick Sort - Execução nº 42 
+100000 elementos. 
+Tempo de execução: 0.0113066 s
+
+Quick Sort - Execução nº 43 
+100000 elementos. 
+Tempo de execução: 0.0117893 s
+
+Quick Sort - Execução nº 44 
+100000 elementos. 
+Tempo de execução: 0.0116684 s
+
+Quick Sort - Execução nº 45 
+100000 elementos. 
+Tempo de execução: 0.0116748 s
+
+Quick Sort - Execução nº 46 
+100000 elementos. 
+Tempo de execução: 0.0112971 s
+
+Quick Sort - Execução nº 47 
+100000 elementos. 
+Tempo de execução: 0.0120834 s
+
+Quick Sort - Execução nº 48 
+100000 elementos. 
+Tempo de execução: 0.0117714 s
+
+Quick Sort - Execução nº 49 
+100000 elementos. 
+Tempo de execução: 0.0116392 s
+
+Quick Sort - Execução nº 50 
+100000 elementos. 
+Tempo de execução: 0.0113842 s
+
+Quick Sort - Execução nº 1 
+1000000 elementos. 
+Tempo de execução: 0.123382 s
+
+Quick Sort - Execução nº 2 
+1000000 elementos. 
+Tempo de execução: 0.12221 s
+
+Quick Sort - Execução nº 3 
+1000000 elementos. 
+Tempo de execução: 0.128403 s
+
+Quick Sort - Execução nº 4 
+1000000 elementos. 
+Tempo de execução: 0.122552 s
+
+Quick Sort - Execução nº 5 
+1000000 elementos. 
+Tempo de execução: 0.12257 s
+
+Quick Sort - Execução nº 6 
+1000000 elementos. 
+Tempo de execução: 0.125542 s
+
+Quick Sort - Execução nº 7 
+1000000 elementos. 
+Tempo de execução: 0.125143 s
+
+Quick Sort - Execução nº 8 
+1000000 elementos. 
+Tempo de execução: 0.122851 s
+
+Quick Sort - Execução nº 9 
+1000000 elementos. 
+Tempo de execução: 0.121999 s
+
+Quick Sort - Execução nº 10 
+1000000 elementos. 
+Tempo de execução: 0.123508 s
+
+Quick Sort - Execução nº 11 
+1000000 elementos. 
+Tempo de execução: 0.121991 s
+
+Quick Sort - Execução nº 12 
+1000000 elementos. 
+Tempo de execução: 0.122926 s
+
+Quick Sort - Execução nº 13 
+1000000 elementos. 
+Tempo de execução: 0.124649 s
+
+Quick Sort - Execução nº 14 
+1000000 elementos. 
+Tempo de execução: 0.124555 s
+
+Quick Sort - Execução nº 15 
+1000000 elementos. 
+Tempo de execução: 0.122144 s
+
+Quick Sort - Execução nº 16 
+1000000 elementos. 
+Tempo de execução: 0.126299 s
+
+Quick Sort - Execução nº 17 
+1000000 elementos. 
+Tempo de execução: 0.124355 s
+
+Quick Sort - Execução nº 18 
+1000000 elementos. 
+Tempo de execução: 0.125048 s
+
+Quick Sort - Execução nº 19 
+1000000 elementos. 
+Tempo de execução: 0.122717 s
+
+Quick Sort - Execução nº 20 
+1000000 elementos. 
+Tempo de execução: 0.124952 s
+
+Quick Sort - Execução nº 21 
+1000000 elementos. 
+Tempo de execução: 0.123567 s
+
+Quick Sort - Execução nº 22 
+1000000 elementos. 
+Tempo de execução: 0.12298 s
+
+Quick Sort - Execução nº 23 
+1000000 elementos. 
+Tempo de execução: 0.122415 s
+
+Quick Sort - Execução nº 24 
+1000000 elementos. 
+Tempo de execução: 0.12391 s
+
+Quick Sort - Execução nº 25 
+1000000 elementos. 
+Tempo de execução: 0.123136 s
+
+Quick Sort - Execução nº 26 
+1000000 elementos. 
+Tempo de execução: 0.125548 s
+
+Quick Sort - Execução nº 27 
+1000000 elementos. 
+Tempo de execução: 0.122334 s
+
+Quick Sort - Execução nº 28 
+1000000 elementos. 
+Tempo de execução: 0.121834 s
+
+Quick Sort - Execução nº 29 
+1000000 elementos. 
+Tempo de execução: 0.125084 s
+
+Quick Sort - Execução nº 30 
+1000000 elementos. 
+Tempo de execução: 0.122187 s
+
+Quick Sort - Execução nº 31 
+1000000 elementos. 
+Tempo de execução: 0.123704 s
+
+Quick Sort - Execução nº 32 
+1000000 elementos. 
+Tempo de execução: 0.126579 s
+
+Quick Sort - Execução nº 33 
+1000000 elementos. 
+Tempo de execução: 0.124608 s
+
+Quick Sort - Execução nº 34 
+1000000 elementos. 
+Tempo de execução: 0.123681 s
+
+Quick Sort - Execução nº 35 
+1000000 elementos. 
+Tempo de execução: 0.12464 s
+
+Quick Sort - Execução nº 36 
+1000000 elementos. 
+Tempo de execução: 0.127438 s
+
+Quick Sort - Execução nº 37 
+1000000 elementos. 
+Tempo de execução: 0.123706 s
+
+Quick Sort - Execução nº 38 
+1000000 elementos. 
+Tempo de execução: 0.122816 s
+
+Quick Sort - Execução nº 39 
+1000000 elementos. 
+Tempo de execução: 0.123843 s
+
+Quick Sort - Execução nº 40 
+1000000 elementos. 
+Tempo de execução: 0.123457 s
+
+Quick Sort - Execução nº 41 
+1000000 elementos. 
+Tempo de execução: 0.122923 s
+
+Quick Sort - Execução nº 42 
+1000000 elementos. 
+Tempo de execução: 0.123283 s
+
+Quick Sort - Execução nº 43 
+1000000 elementos. 
+Tempo de execução: 0.12356 s
+
+Quick Sort - Execução nº 44 
+1000000 elementos. 
+Tempo de execução: 0.124571 s
+
+Quick Sort - Execução nº 45 
+1000000 elementos. 
+Tempo de execução: 0.122977 s
+
+Quick Sort - Execução nº 46 
+1000000 elementos. 
+Tempo de execução: 0.123997 s
+
+Quick Sort - Execução nº 47 
+1000000 elementos. 
+Tempo de execução: 0.122641 s
+
+Quick Sort - Execução nº 48 
+1000000 elementos. 
+Tempo de execução: 0.12345 s
+
+Quick Sort - Execução nº 49 
+1000000 elementos. 
+Tempo de execução: 0.123508 s
+
+Quick Sort - Execução nº 50 
+1000000 elementos. 
+Tempo de execução: 0.122464 s
+
+Quick Sort - Execução nº 1 
+10000000 elementos. 
+Tempo de execução: 1.29031 s
+
+Quick Sort - Execução nº 2 
+10000000 elementos. 
+Tempo de execução: 1.29829 s
+
+Quick Sort - Execução nº 3 
+10000000 elementos. 
+Tempo de execução: 1.28098 s
+
+Quick Sort - Execução nº 4 
+10000000 elementos. 
+Tempo de execução: 1.28614 s
+
+Quick Sort - Execução nº 5 
+10000000 elementos. 
+Tempo de execução: 1.29385 s
+
+Quick Sort - Execução nº 6 
+10000000 elementos. 
+Tempo de execução: 1.3064 s
+
+Quick Sort - Execução nº 7 
+10000000 elementos. 
+Tempo de execução: 1.29172 s
+
+Quick Sort - Execução nº 8 
+10000000 elementos. 
+Tempo de execução: 1.29697 s
+
+Quick Sort - Execução nº 9 
+10000000 elementos. 
+Tempo de execução: 1.32148 s
+
+Quick Sort - Execução nº 10 
+10000000 elementos. 
+Tempo de execução: 1.29862 s
+
+Quick Sort - Execução nº 11 
+10000000 elementos. 
+Tempo de execução: 1.29653 s
+
+Quick Sort - Execução nº 12 
+10000000 elementos. 
+Tempo de execução: 1.28873 s
+
+Quick Sort - Execução nº 13 
+10000000 elementos. 
+Tempo de execução: 1.29806 s
+
+Quick Sort - Execução nº 14 
+10000000 elementos. 
+Tempo de execução: 1.2987 s
+
+Quick Sort - Execução nº 15 
+10000000 elementos. 
+Tempo de execução: 1.28625 s
+
+Quick Sort - Execução nº 16 
+10000000 elementos. 
+Tempo de execução: 1.29081 s
+
+Quick Sort - Execução nº 17 
+10000000 elementos. 
+Tempo de execução: 1.315 s
+
+Quick Sort - Execução nº 18 
+10000000 elementos. 
+Tempo de execução: 1.29093 s
+
+Quick Sort - Execução nº 19 
+10000000 elementos. 
+Tempo de execução: 1.30254 s
+
+Quick Sort - Execução nº 20 
+10000000 elementos. 
+Tempo de execução: 1.2705 s
+
+Quick Sort - Execução nº 21 
+10000000 elementos. 
+Tempo de execução: 1.27473 s
+
+Quick Sort - Execução nº 22 
+10000000 elementos. 
+Tempo de execução: 1.27697 s
+
+Quick Sort - Execução nº 23 
+10000000 elementos. 
+Tempo de execução: 1.28092 s
+
+Quick Sort - Execução nº 24 
+10000000 elementos. 
+Tempo de execução: 1.28591 s
+
+Quick Sort - Execução nº 25 
+10000000 elementos. 
+Tempo de execução: 1.2821 s
+
+Quick Sort - Execução nº 26 
+10000000 elementos. 
+Tempo de execução: 1.27628 s
+
+Quick Sort - Execução nº 27 
+10000000 elementos. 
+Tempo de execução: 1.29295 s
+
+Quick Sort - Execução nº 28 
+10000000 elementos. 
+Tempo de execução: 1.29039 s
+
+Quick Sort - Execução nº 29 
+10000000 elementos. 
+Tempo de execução: 1.27784 s
+
+Quick Sort - Execução nº 30 
+10000000 elementos. 
+Tempo de execução: 1.30366 s
+
+Quick Sort - Execução nº 31 
+10000000 elementos. 
+Tempo de execução: 1.28555 s
+
+Quick Sort - Execução nº 32 
+10000000 elementos. 
+Tempo de execução: 1.28163 s
+
+Quick Sort - Execução nº 33 
+10000000 elementos. 
+Tempo de execução: 1.28194 s
+
+Quick Sort - Execução nº 34 
+10000000 elementos. 
+Tempo de execução: 1.31841 s
+
+Quick Sort - Execução nº 35 
+10000000 elementos. 
+Tempo de execução: 1.27926 s
+
+Quick Sort - Execução nº 36 
+10000000 elementos. 
+Tempo de execução: 1.28055 s
+
+Quick Sort - Execução nº 37 
+10000000 elementos. 
+Tempo de execução: 1.28603 s
+
+Quick Sort - Execução nº 38 
+10000000 elementos. 
+Tempo de execução: 1.28304 s
+
+Quick Sort - Execução nº 39 
+10000000 elementos. 
+Tempo de execução: 1.29393 s
+
+Quick Sort - Execução nº 40 
+10000000 elementos. 
+Tempo de execução: 1.27523 s
+
+Quick Sort - Execução nº 41 
+10000000 elementos. 
+Tempo de execução: 1.27184 s
+
+Quick Sort - Execução nº 42 
+10000000 elementos. 
+Tempo de execução: 1.29841 s
+
+Quick Sort - Execução nº 43 
+10000000 elementos. 
+Tempo de execução: 1.26942 s
+
+Quick Sort - Execução nº 44 
+10000000 elementos. 
+Tempo de execução: 1.28604 s
+
+Quick Sort - Execução nº 45 
+10000000 elementos. 
+Tempo de execução: 1.29708 s
+
+Quick Sort - Execução nº 46 
+10000000 elementos. 
+Tempo de execução: 1.30667 s
+
+Quick Sort - Execução nº 47 
+10000000 elementos. 
+Tempo de execução: 1.28975 s
+
+Quick Sort - Execução nº 48 
+10000000 elementos. 
+Tempo de execução: 1.27959 s
+
+Quick Sort - Execução nº 49 
+10000000 elementos. 
+Tempo de execução: 1.30189 s
+
+Quick Sort - Execução nº 50 
+10000000 elementos. 
+Tempo de execução: 1.28542 s
+
+Quick Sort - Execução nº 1 
+100000000 elementos. 
+Tempo de execução: 13.3676 s
+
+Quick Sort - Execução nº 2 
+100000000 elementos. 
+Tempo de execução: 13.4172 s
+
+Quick Sort - Execução nº 3 
+100000000 elementos. 
+Tempo de execução: 13.3879 s
+
+Quick Sort - Execução nº 4 
+100000000 elementos. 
+Tempo de execução: 13.2947 s
+
+Quick Sort - Execução nº 5 
+100000000 elementos. 
+Tempo de execução: 13.4774 s
+
+Quick Sort - Execução nº 6 
+100000000 elementos. 
+Tempo de execução: 13.3002 s
+
+Quick Sort - Execução nº 7 
+100000000 elementos. 
+Tempo de execução: 13.4156 s
+
+Quick Sort - Execução nº 8 
+100000000 elementos. 
+Tempo de execução: 13.5878 s
+
+Quick Sort - Execução nº 9 
+100000000 elementos. 
+Tempo de execução: 13.5228 s
+
+Quick Sort - Execução nº 10 
+100000000 elementos. 
+Tempo de execução: 13.6607 s
+
+Quick Sort - Execução nº 11 
+100000000 elementos. 
+Tempo de execução: 13.4457 s
+
+Quick Sort - Execução nº 12 
+100000000 elementos. 
+Tempo de execução: 13.4366 s
+
+Quick Sort - Execução nº 13 
+100000000 elementos. 
+Tempo de execução: 13.4732 s
+
+Quick Sort - Execução nº 14 
+100000000 elementos. 
+Tempo de execução: 13.5361 s
+
+Quick Sort - Execução nº 15 
+100000000 elementos. 
+Tempo de execução: 13.49 s
+
+Quick Sort - Execução nº 16 
+100000000 elementos. 
+Tempo de execução: 13.5029 s
+
+Quick Sort - Execução nº 17 
+100000000 elementos. 
+Tempo de execução: 13.3269 s
+
+Quick Sort - Execução nº 18 
+100000000 elementos. 
+Tempo de execução: 13.2956 s
+
+Quick Sort - Execução nº 19 
+100000000 elementos. 
+Tempo de execução: 13.478 s
+
+Quick Sort - Execução nº 20 
+100000000 elementos. 
+Tempo de execução: 13.3597 s
+
+Quick Sort - Execução nº 21 
+100000000 elementos. 
+Tempo de execução: 13.3896 s
+
+Quick Sort - Execução nº 22 
+100000000 elementos. 
+Tempo de execução: 13.4487 s
+
+Quick Sort - Execução nº 23 
+100000000 elementos. 
+Tempo de execução: 13.4949 s
+
+Quick Sort - Execução nº 24 
+100000000 elementos. 
+Tempo de execução: 13.2584 s
+
+Quick Sort - Execução nº 25 
+100000000 elementos. 
+Tempo de execução: 13.4634 s
+
+Quick Sort - Execução nº 26 
+100000000 elementos. 
+Tempo de execução: 13.5917 s
+
+Quick Sort - Execução nº 27 
+100000000 elementos. 
+Tempo de execução: 13.6323 s
+
+Quick Sort - Execução nº 28 
+100000000 elementos. 
+Tempo de execução: 13.4951 s
+
+Quick Sort - Execução nº 29 
+100000000 elementos. 
+Tempo de execução: 13.5615 s
+
+Quick Sort - Execução nº 30 
+100000000 elementos. 
+Tempo de execução: 13.5457 s
+
+Quick Sort - Execução nº 31 
+100000000 elementos. 
+Tempo de execução: 13.7338 s
+
+Quick Sort - Execução nº 32 
+100000000 elementos. 
+Tempo de execução: 13.7824 s
+
+Quick Sort - Execução nº 33 
+100000000 elementos. 
+Tempo de execução: 13.6468 s
+
+Quick Sort - Execução nº 34 
+100000000 elementos. 
+Tempo de execução: 13.4285 s
+
+Quick Sort - Execução nº 35 
+100000000 elementos. 
+Tempo de execução: 13.4044 s
+
+Quick Sort - Execução nº 36 
+100000000 elementos. 
+Tempo de execução: 13.5224 s
+
+Quick Sort - Execução nº 37 
+100000000 elementos. 
+Tempo de execução: 13.4452 s
+
+Quick Sort - Execução nº 38 
+100000000 elementos. 
+Tempo de execução: 13.5656 s
+
+Quick Sort - Execução nº 39 
+100000000 elementos. 
+Tempo de execução: 13.5157 s
+
+Quick Sort - Execução nº 40 
+100000000 elementos. 
+Tempo de execução: 13.4329 s
+
+Quick Sort - Execução nº 41 
+100000000 elementos. 
+Tempo de execução: 13.2961 s
+
+Quick Sort - Execução nº 42 
+100000000 elementos. 
+Tempo de execução: 13.3101 s
+
+Quick Sort - Execução nº 43 
+100000000 elementos. 
+Tempo de execução: 13.7124 s
+
+Quick Sort - Execução nº 44 
+100000000 elementos. 
+Tempo de execução: 13.4454 s
+
+Quick Sort - Execução nº 45 
+100000000 elementos. 
+Tempo de execução: 13.3599 s
+
+Quick Sort - Execução nº 46 
+100000000 elementos. 
+Tempo de execução: 13.2766 s
+
+Quick Sort - Execução nº 47 
+100000000 elementos. 
+Tempo de execução: 13.5969 s
+
+Quick Sort - Execução nº 48 
+100000000 elementos. 
+Tempo de execução: 13.4258 s
+
+Quick Sort - Execução nº 49 
+100000000 elementos. 
+Tempo de execução: 13.2977 s
+
+Quick Sort - Execução nº 50 
+100000000 elementos. 
+Tempo de execução: 13.4212 s
+
+Quick Sort - Execução nº 1 
+1000000000 elementos. 
+Tempo de execução: 139.605 s
+
+Quick Sort - Execução nº 2 
+1000000000 elementos. 
+Tempo de execução: 140.013 s
+
+Quick Sort - Execução nº 3 
+1000000000 elementos. 
+Tempo de execução: 140.9 s
+
+Quick Sort - Execução nº 4 
+1000000000 elementos. 
+Tempo de execução: 141.818 s
+
+Quick Sort - Execução nº 5 
+1000000000 elementos. 
+Tempo de execução: 143.232 s
+
+Quick Sort - Execução nº 6 
+1000000000 elementos. 
+Tempo de execução: 138.062 s
+
+Quick Sort - Execução nº 7 
+1000000000 elementos. 
+Tempo de execução: 136.021 s
+
+Quick Sort - Execução nº 8 
+1000000000 elementos. 
+Tempo de execução: 134.672 s
+
+Quick Sort - Execução nº 9 
+1000000000 elementos. 
+Tempo de execução: 132.603 s
+
+Quick Sort - Execução nº 10 
+1000000000 elementos. 
+Tempo de execução: 134.237 s
+
+Quick Sort - Execução nº 11 
+1000000000 elementos. 
+Tempo de execução: 133.918 s
+
+Quick Sort - Execução nº 12 
+1000000000 elementos. 
+Tempo de execução: 134.475 s
+
+Quick Sort - Execução nº 13 
+1000000000 elementos. 
+Tempo de execução: 134.03 s
+
+Quick Sort - Execução nº 14 
+1000000000 elementos. 
+Tempo de execução: 139.854 s
+
+Quick Sort - Execução nº 15 
+1000000000 elementos. 
+Tempo de execução: 133.554 s
+
+Quick Sort - Execução nº 16 
+1000000000 elementos. 
+Tempo de execução: 135.137 s
+
+Quick Sort - Execução nº 17 
+1000000000 elementos. 
+Tempo de execução: 133.394 s
+
+Quick Sort - Execução nº 18 
+1000000000 elementos. 
+Tempo de execução: 133.22 s
+
+Quick Sort - Execução nº 19 
+1000000000 elementos. 
+Tempo de execução: 134.039 s
+
+Quick Sort - Execução nº 20 
+1000000000 elementos. 
+Tempo de execução: 133.674 s
+
+Quick Sort - Execução nº 21 
+1000000000 elementos. 
+Tempo de execução: 133.113 s
+
+Quick Sort - Execução nº 22 
+1000000000 elementos. 
+Tempo de execução: 135.897 s
+
+Quick Sort - Execução nº 23 
+1000000000 elementos. 
+Tempo de execução: 135.062 s
+
+Quick Sort - Execução nº 24 
+1000000000 elementos. 
+Tempo de execução: 132.526 s
+
+Quick Sort - Execução nº 25 
+1000000000 elementos. 
+Tempo de execução: 133.262 s
+
+Quick Sort - Execução nº 26 
+1000000000 elementos. 
+Tempo de execução: 134.658 s
+
+Quick Sort - Execução nº 27 
+1000000000 elementos. 
+Tempo de execução: 133.434 s
+
+Quick Sort - Execução nº 28 
+1000000000 elementos. 
+Tempo de execução: 134.366 s
+
+Quick Sort - Execução nº 29 
+1000000000 elementos. 
+Tempo de execução: 135.251 s
+
+Quick Sort - Execução nº 30 
+1000000000 elementos. 
+Tempo de execução: 135.5 s
+
+Quick Sort - Execução nº 31 
+1000000000 elementos. 
+Tempo de execução: 135.757 s
+
+Quick Sort - Execução nº 32 
+1000000000 elementos. 
+Tempo de execução: 132.881 s
+
+Quick Sort - Execução nº 33 
+1000000000 elementos. 
+Tempo de execução: 134.46 s
+
+Quick Sort - Execução nº 34 
+1000000000 elementos. 
+Tempo de execução: 137.197 s
+
+Quick Sort - Execução nº 35 
+1000000000 elementos. 
+Tempo de execução: 141.539 s
+
+Quick Sort - Execução nº 36 
+1000000000 elementos. 
+Tempo de execução: 140.962 s
+
+Quick Sort - Execução nº 37 
+1000000000 elementos. 
+Tempo de execução: 140.505 s
+
+Quick Sort - Execução nº 38 
+1000000000 elementos. 
+Tempo de execução: 141.686 s
+
+Quick Sort - Execução nº 39 
+1000000000 elementos. 
+Tempo de execução: 141.456 s
+
+Quick Sort - Execução nº 40 
+1000000000 elementos. 
+Tempo de execução: 142.138 s
+
+Quick Sort - Execução nº 41 
+1000000000 elementos. 
+Tempo de execução: 143.025 s
+
+Quick Sort - Execução nº 42 
+1000000000 elementos. 
+Tempo de execução: 141.888 s
+
+Quick Sort - Execução nº 43 
+1000000000 elementos. 
+Tempo de execução: 141.064 s
+
+Quick Sort - Execução nº 44 
+1000000000 elementos. 
+Tempo de execução: 139.712 s
+
+Quick Sort - Execução nº 45 
+1000000000 elementos. 
+Tempo de execução: 139.497 s
+
+Quick Sort - Execução nº 46 
+1000000000 elementos. 
+Tempo de execução: 141.514 s
+
+Quick Sort - Execução nº 47 
+1000000000 elementos. 
+Tempo de execução: 137.242 s
+
+Quick Sort - Execução nº 48 
+1000000000 elementos. 
+Tempo de execução: 136.779 s
+
+Quick Sort - Execução nº 49 
+1000000000 elementos. 
+Tempo de execução: 140.97 s
+
+Quick Sort - Execução nº 50 
+1000000000 elementos. 
+Tempo de execução: 140.364 s
+

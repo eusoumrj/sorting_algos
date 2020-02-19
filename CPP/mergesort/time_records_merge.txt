@@ -1,0 +1,1200 @@
+Merge Sort - Execução nº 1 
+1000 elementos. 
+Tempo de execução: 0.000335941 s
+
+Merge Sort - Execução nº 2 
+1000 elementos. 
+Tempo de execução: 0.000319551 s
+
+Merge Sort - Execução nº 3 
+1000 elementos. 
+Tempo de execução: 0.000317953 s
+
+Merge Sort - Execução nº 4 
+1000 elementos. 
+Tempo de execução: 0.000317011 s
+
+Merge Sort - Execução nº 5 
+1000 elementos. 
+Tempo de execução: 0.000319587 s
+
+Merge Sort - Execução nº 6 
+1000 elementos. 
+Tempo de execução: 0.000319745 s
+
+Merge Sort - Execução nº 7 
+1000 elementos. 
+Tempo de execução: 0.000317635 s
+
+Merge Sort - Execução nº 8 
+1000 elementos. 
+Tempo de execução: 0.000318144 s
+
+Merge Sort - Execução nº 9 
+1000 elementos. 
+Tempo de execução: 0.000334855 s
+
+Merge Sort - Execução nº 10 
+1000 elementos. 
+Tempo de execução: 0.000317093 s
+
+Merge Sort - Execução nº 11 
+1000 elementos. 
+Tempo de execução: 0.000317457 s
+
+Merge Sort - Execução nº 12 
+1000 elementos. 
+Tempo de execução: 0.000318589 s
+
+Merge Sort - Execução nº 13 
+1000 elementos. 
+Tempo de execução: 0.000317367 s
+
+Merge Sort - Execução nº 14 
+1000 elementos. 
+Tempo de execução: 0.000317835 s
+
+Merge Sort - Execução nº 15 
+1000 elementos. 
+Tempo de execução: 0.000317296 s
+
+Merge Sort - Execução nº 16 
+1000 elementos. 
+Tempo de execução: 0.000316658 s
+
+Merge Sort - Execução nº 17 
+1000 elementos. 
+Tempo de execução: 0.000315994 s
+
+Merge Sort - Execução nº 18 
+1000 elementos. 
+Tempo de execução: 0.000303593 s
+
+Merge Sort - Execução nº 19 
+1000 elementos. 
+Tempo de execução: 0.00024046 s
+
+Merge Sort - Execução nº 20 
+1000 elementos. 
+Tempo de execução: 0.000242808 s
+
+Merge Sort - Execução nº 21 
+1000 elementos. 
+Tempo de execução: 0.00024115 s
+
+Merge Sort - Execução nº 22 
+1000 elementos. 
+Tempo de execução: 0.000243058 s
+
+Merge Sort - Execução nº 23 
+1000 elementos. 
+Tempo de execução: 0.000240821 s
+
+Merge Sort - Execução nº 24 
+1000 elementos. 
+Tempo de execução: 0.000256123 s
+
+Merge Sort - Execução nº 25 
+1000 elementos. 
+Tempo de execução: 0.000297001 s
+
+Merge Sort - Execução nº 26 
+1000 elementos. 
+Tempo de execução: 0.000242205 s
+
+Merge Sort - Execução nº 27 
+1000 elementos. 
+Tempo de execução: 0.00024401 s
+
+Merge Sort - Execução nº 28 
+1000 elementos. 
+Tempo de execução: 0.000299365 s
+
+Merge Sort - Execução nº 29 
+1000 elementos. 
+Tempo de execução: 0.000242789 s
+
+Merge Sort - Execução nº 30 
+1000 elementos. 
+Tempo de execução: 0.000172197 s
+
+Merge Sort - Execução nº 31 
+1000 elementos. 
+Tempo de execução: 0.000141165 s
+
+Merge Sort - Execução nº 32 
+1000 elementos. 
+Tempo de execução: 0.000140362 s
+
+Merge Sort - Execução nº 33 
+1000 elementos. 
+Tempo de execução: 0.000142185 s
+
+Merge Sort - Execução nº 34 
+1000 elementos. 
+Tempo de execução: 0.000141313 s
+
+Merge Sort - Execução nº 35 
+1000 elementos. 
+Tempo de execução: 0.000141538 s
+
+Merge Sort - Execução nº 36 
+1000 elementos. 
+Tempo de execução: 0.000141158 s
+
+Merge Sort - Execução nº 37 
+1000 elementos. 
+Tempo de execução: 0.000141895 s
+
+Merge Sort - Execução nº 38 
+1000 elementos. 
+Tempo de execução: 0.000164448 s
+
+Merge Sort - Execução nº 39 
+1000 elementos. 
+Tempo de execução: 0.000163967 s
+
+Merge Sort - Execução nº 40 
+1000 elementos. 
+Tempo de execução: 0.000141471 s
+
+Merge Sort - Execução nº 41 
+1000 elementos. 
+Tempo de execução: 0.000140985 s
+
+Merge Sort - Execução nº 42 
+1000 elementos. 
+Tempo de execução: 0.000141341 s
+
+Merge Sort - Execução nº 43 
+1000 elementos. 
+Tempo de execução: 0.000141782 s
+
+Merge Sort - Execução nº 44 
+1000 elementos. 
+Tempo de execução: 0.000140602 s
+
+Merge Sort - Execução nº 45 
+1000 elementos. 
+Tempo de execução: 0.000141983 s
+
+Merge Sort - Execução nº 46 
+1000 elementos. 
+Tempo de execução: 0.000141225 s
+
+Merge Sort - Execução nº 47 
+1000 elementos. 
+Tempo de execução: 0.000141328 s
+
+Merge Sort - Execução nº 48 
+1000 elementos. 
+Tempo de execução: 0.000141133 s
+
+Merge Sort - Execução nº 49 
+1000 elementos. 
+Tempo de execução: 0.000160849 s
+
+Merge Sort - Execução nº 50 
+1000 elementos. 
+Tempo de execução: 0.000148253 s
+
+Merge Sort - Execução nº 1 
+10000 elementos. 
+Tempo de execução: 0.00348133 s
+
+Merge Sort - Execução nº 2 
+10000 elementos. 
+Tempo de execução: 0.0020131 s
+
+Merge Sort - Execução nº 3 
+10000 elementos. 
+Tempo de execução: 0.00200892 s
+
+Merge Sort - Execução nº 4 
+10000 elementos. 
+Tempo de execução: 0.00200054 s
+
+Merge Sort - Execução nº 5 
+10000 elementos. 
+Tempo de execução: 0.0020201 s
+
+Merge Sort - Execução nº 6 
+10000 elementos. 
+Tempo de execução: 0.00189519 s
+
+Merge Sort - Execução nº 7 
+10000 elementos. 
+Tempo de execução: 0.00167902 s
+
+Merge Sort - Execução nº 8 
+10000 elementos. 
+Tempo de execução: 0.00171388 s
+
+Merge Sort - Execução nº 9 
+10000 elementos. 
+Tempo de execução: 0.00167805 s
+
+Merge Sort - Execução nº 10 
+10000 elementos. 
+Tempo de execução: 0.00170427 s
+
+Merge Sort - Execução nº 11 
+10000 elementos. 
+Tempo de execução: 0.00179342 s
+
+Merge Sort - Execução nº 12 
+10000 elementos. 
+Tempo de execução: 0.00199355 s
+
+Merge Sort - Execução nº 13 
+10000 elementos. 
+Tempo de execução: 0.00173517 s
+
+Merge Sort - Execução nº 14 
+10000 elementos. 
+Tempo de execução: 0.00179076 s
+
+Merge Sort - Execução nº 15 
+10000 elementos. 
+Tempo de execução: 0.00172888 s
+
+Merge Sort - Execução nº 16 
+10000 elementos. 
+Tempo de execução: 0.00171481 s
+
+Merge Sort - Execução nº 17 
+10000 elementos. 
+Tempo de execução: 0.00182881 s
+
+Merge Sort - Execução nº 18 
+10000 elementos. 
+Tempo de execução: 0.00172464 s
+
+Merge Sort - Execução nº 19 
+10000 elementos. 
+Tempo de execução: 0.00173207 s
+
+Merge Sort - Execução nº 20 
+10000 elementos. 
+Tempo de execução: 0.001755 s
+
+Merge Sort - Execução nº 21 
+10000 elementos. 
+Tempo de execução: 0.00168107 s
+
+Merge Sort - Execução nº 22 
+10000 elementos. 
+Tempo de execução: 0.00189923 s
+
+Merge Sort - Execução nº 23 
+10000 elementos. 
+Tempo de execução: 0.00168691 s
+
+Merge Sort - Execução nº 24 
+10000 elementos. 
+Tempo de execução: 0.00170667 s
+
+Merge Sort - Execução nº 25 
+10000 elementos. 
+Tempo de execução: 0.00164783 s
+
+Merge Sort - Execução nº 26 
+10000 elementos. 
+Tempo de execução: 0.00167244 s
+
+Merge Sort - Execução nº 27 
+10000 elementos. 
+Tempo de execução: 0.00164822 s
+
+Merge Sort - Execução nº 28 
+10000 elementos. 
+Tempo de execução: 0.00169804 s
+
+Merge Sort - Execução nº 29 
+10000 elementos. 
+Tempo de execução: 0.00195887 s
+
+Merge Sort - Execução nº 30 
+10000 elementos. 
+Tempo de execução: 0.00168081 s
+
+Merge Sort - Execução nº 31 
+10000 elementos. 
+Tempo de execução: 0.00169358 s
+
+Merge Sort - Execução nº 32 
+10000 elementos. 
+Tempo de execução: 0.00184142 s
+
+Merge Sort - Execução nº 33 
+10000 elementos. 
+Tempo de execução: 0.00174113 s
+
+Merge Sort - Execução nº 34 
+10000 elementos. 
+Tempo de execução: 0.00168698 s
+
+Merge Sort - Execução nº 35 
+10000 elementos. 
+Tempo de execução: 0.00179313 s
+
+Merge Sort - Execução nº 36 
+10000 elementos. 
+Tempo de execução: 0.00170025 s
+
+Merge Sort - Execução nº 37 
+10000 elementos. 
+Tempo de execução: 0.00167729 s
+
+Merge Sort - Execução nº 38 
+10000 elementos. 
+Tempo de execução: 0.00180597 s
+
+Merge Sort - Execução nº 39 
+10000 elementos. 
+Tempo de execução: 0.00171232 s
+
+Merge Sort - Execução nº 40 
+10000 elementos. 
+Tempo de execução: 0.00174875 s
+
+Merge Sort - Execução nº 41 
+10000 elementos. 
+Tempo de execução: 0.00167623 s
+
+Merge Sort - Execução nº 42 
+10000 elementos. 
+Tempo de execução: 0.00178441 s
+
+Merge Sort - Execução nº 43 
+10000 elementos. 
+Tempo de execução: 0.00167852 s
+
+Merge Sort - Execução nº 44 
+10000 elementos. 
+Tempo de execução: 0.00173651 s
+
+Merge Sort - Execução nº 45 
+10000 elementos. 
+Tempo de execução: 0.00186225 s
+
+Merge Sort - Execução nº 46 
+10000 elementos. 
+Tempo de execução: 0.00168282 s
+
+Merge Sort - Execução nº 47 
+10000 elementos. 
+Tempo de execução: 0.00174256 s
+
+Merge Sort - Execução nº 48 
+10000 elementos. 
+Tempo de execução: 0.00169786 s
+
+Merge Sort - Execução nº 49 
+10000 elementos. 
+Tempo de execução: 0.00181413 s
+
+Merge Sort - Execução nº 50 
+10000 elementos. 
+Tempo de execução: 0.0018207 s
+
+Merge Sort - Execução nº 1 
+100000 elementos. 
+Tempo de execução: 0.024005 s
+
+Merge Sort - Execução nº 2 
+100000 elementos. 
+Tempo de execução: 0.0201439 s
+
+Merge Sort - Execução nº 3 
+100000 elementos. 
+Tempo de execução: 0.020645 s
+
+Merge Sort - Execução nº 4 
+100000 elementos. 
+Tempo de execução: 0.0203468 s
+
+Merge Sort - Execução nº 5 
+100000 elementos. 
+Tempo de execução: 0.0201009 s
+
+Merge Sort - Execução nº 6 
+100000 elementos. 
+Tempo de execução: 0.0205716 s
+
+Merge Sort - Execução nº 7 
+100000 elementos. 
+Tempo de execução: 0.0205824 s
+
+Merge Sort - Execução nº 8 
+100000 elementos. 
+Tempo de execução: 0.0200334 s
+
+Merge Sort - Execução nº 9 
+100000 elementos. 
+Tempo de execução: 0.0203299 s
+
+Merge Sort - Execução nº 10 
+100000 elementos. 
+Tempo de execução: 0.0206468 s
+
+Merge Sort - Execução nº 11 
+100000 elementos. 
+Tempo de execução: 0.0203008 s
+
+Merge Sort - Execução nº 12 
+100000 elementos. 
+Tempo de execução: 0.0201964 s
+
+Merge Sort - Execução nº 13 
+100000 elementos. 
+Tempo de execução: 0.02035 s
+
+Merge Sort - Execução nº 14 
+100000 elementos. 
+Tempo de execução: 0.020538 s
+
+Merge Sort - Execução nº 15 
+100000 elementos. 
+Tempo de execução: 0.0201867 s
+
+Merge Sort - Execução nº 16 
+100000 elementos. 
+Tempo de execução: 0.0205974 s
+
+Merge Sort - Execução nº 17 
+100000 elementos. 
+Tempo de execução: 0.020433 s
+
+Merge Sort - Execução nº 18 
+100000 elementos. 
+Tempo de execução: 0.020444 s
+
+Merge Sort - Execução nº 19 
+100000 elementos. 
+Tempo de execução: 0.0202749 s
+
+Merge Sort - Execução nº 20 
+100000 elementos. 
+Tempo de execução: 0.0203394 s
+
+Merge Sort - Execução nº 21 
+100000 elementos. 
+Tempo de execução: 0.0206133 s
+
+Merge Sort - Execução nº 22 
+100000 elementos. 
+Tempo de execução: 0.0201276 s
+
+Merge Sort - Execução nº 23 
+100000 elementos. 
+Tempo de execução: 0.0206666 s
+
+Merge Sort - Execução nº 24 
+100000 elementos. 
+Tempo de execução: 0.0206979 s
+
+Merge Sort - Execução nº 25 
+100000 elementos. 
+Tempo de execução: 0.020287 s
+
+Merge Sort - Execução nº 26 
+100000 elementos. 
+Tempo de execução: 0.0203026 s
+
+Merge Sort - Execução nº 27 
+100000 elementos. 
+Tempo de execução: 0.0207501 s
+
+Merge Sort - Execução nº 28 
+100000 elementos. 
+Tempo de execução: 0.0206699 s
+
+Merge Sort - Execução nº 29 
+100000 elementos. 
+Tempo de execução: 0.0201381 s
+
+Merge Sort - Execução nº 30 
+100000 elementos. 
+Tempo de execução: 0.0205834 s
+
+Merge Sort - Execução nº 31 
+100000 elementos. 
+Tempo de execução: 0.0205113 s
+
+Merge Sort - Execução nº 32 
+100000 elementos. 
+Tempo de execução: 0.020091 s
+
+Merge Sort - Execução nº 33 
+100000 elementos. 
+Tempo de execução: 0.0203461 s
+
+Merge Sort - Execução nº 34 
+100000 elementos. 
+Tempo de execução: 0.0204956 s
+
+Merge Sort - Execução nº 35 
+100000 elementos. 
+Tempo de execução: 0.0203464 s
+
+Merge Sort - Execução nº 36 
+100000 elementos. 
+Tempo de execução: 0.0201034 s
+
+Merge Sort - Execução nº 37 
+100000 elementos. 
+Tempo de execução: 0.0207426 s
+
+Merge Sort - Execução nº 38 
+100000 elementos. 
+Tempo de execução: 0.020772 s
+
+Merge Sort - Execução nº 39 
+100000 elementos. 
+Tempo de execução: 0.0207336 s
+
+Merge Sort - Execução nº 40 
+100000 elementos. 
+Tempo de execução: 0.0206436 s
+
+Merge Sort - Execução nº 41 
+100000 elementos. 
+Tempo de execução: 0.0206167 s
+
+Merge Sort - Execução nº 42 
+100000 elementos. 
+Tempo de execução: 0.0204124 s
+
+Merge Sort - Execução nº 43 
+100000 elementos. 
+Tempo de execução: 0.020306 s
+
+Merge Sort - Execução nº 44 
+100000 elementos. 
+Tempo de execução: 0.0205289 s
+
+Merge Sort - Execução nº 45 
+100000 elementos. 
+Tempo de execução: 0.0205286 s
+
+Merge Sort - Execução nº 46 
+100000 elementos. 
+Tempo de execução: 0.0204229 s
+
+Merge Sort - Execução nº 47 
+100000 elementos. 
+Tempo de execução: 0.020472 s
+
+Merge Sort - Execução nº 48 
+100000 elementos. 
+Tempo de execução: 0.0204276 s
+
+Merge Sort - Execução nº 49 
+100000 elementos. 
+Tempo de execução: 0.020074 s
+
+Merge Sort - Execução nº 50 
+100000 elementos. 
+Tempo de execução: 0.0204235 s
+
+Merge Sort - Execução nº 1 
+1000000 elementos. 
+Tempo de execução: 0.22652 s
+
+Merge Sort - Execução nº 2 
+1000000 elementos. 
+Tempo de execução: 0.222391 s
+
+Merge Sort - Execução nº 3 
+1000000 elementos. 
+Tempo de execução: 0.222597 s
+
+Merge Sort - Execução nº 4 
+1000000 elementos. 
+Tempo de execução: 0.223261 s
+
+Merge Sort - Execução nº 5 
+1000000 elementos. 
+Tempo de execução: 0.221609 s
+
+Merge Sort - Execução nº 6 
+1000000 elementos. 
+Tempo de execução: 0.222572 s
+
+Merge Sort - Execução nº 7 
+1000000 elementos. 
+Tempo de execução: 0.221806 s
+
+Merge Sort - Execução nº 8 
+1000000 elementos. 
+Tempo de execução: 0.223256 s
+
+Merge Sort - Execução nº 9 
+1000000 elementos. 
+Tempo de execução: 0.222203 s
+
+Merge Sort - Execução nº 10 
+1000000 elementos. 
+Tempo de execução: 0.222586 s
+
+Merge Sort - Execução nº 11 
+1000000 elementos. 
+Tempo de execução: 0.222685 s
+
+Merge Sort - Execução nº 12 
+1000000 elementos. 
+Tempo de execução: 0.222768 s
+
+Merge Sort - Execução nº 13 
+1000000 elementos. 
+Tempo de execução: 0.222897 s
+
+Merge Sort - Execução nº 14 
+1000000 elementos. 
+Tempo de execução: 0.222102 s
+
+Merge Sort - Execução nº 15 
+1000000 elementos. 
+Tempo de execução: 0.222332 s
+
+Merge Sort - Execução nº 16 
+1000000 elementos. 
+Tempo de execução: 0.222316 s
+
+Merge Sort - Execução nº 17 
+1000000 elementos. 
+Tempo de execução: 0.222339 s
+
+Merge Sort - Execução nº 18 
+1000000 elementos. 
+Tempo de execução: 0.223 s
+
+Merge Sort - Execução nº 19 
+1000000 elementos. 
+Tempo de execução: 0.22454 s
+
+Merge Sort - Execução nº 20 
+1000000 elementos. 
+Tempo de execução: 0.222017 s
+
+Merge Sort - Execução nº 21 
+1000000 elementos. 
+Tempo de execução: 0.222475 s
+
+Merge Sort - Execução nº 22 
+1000000 elementos. 
+Tempo de execução: 0.221866 s
+
+Merge Sort - Execução nº 23 
+1000000 elementos. 
+Tempo de execução: 0.221314 s
+
+Merge Sort - Execução nº 24 
+1000000 elementos. 
+Tempo de execução: 0.221664 s
+
+Merge Sort - Execução nº 25 
+1000000 elementos. 
+Tempo de execução: 0.221409 s
+
+Merge Sort - Execução nº 26 
+1000000 elementos. 
+Tempo de execução: 0.222568 s
+
+Merge Sort - Execução nº 27 
+1000000 elementos. 
+Tempo de execução: 0.222246 s
+
+Merge Sort - Execução nº 28 
+1000000 elementos. 
+Tempo de execução: 0.222418 s
+
+Merge Sort - Execução nº 29 
+1000000 elementos. 
+Tempo de execução: 0.222669 s
+
+Merge Sort - Execução nº 30 
+1000000 elementos. 
+Tempo de execução: 0.22342 s
+
+Merge Sort - Execução nº 31 
+1000000 elementos. 
+Tempo de execução: 0.223075 s
+
+Merge Sort - Execução nº 32 
+1000000 elementos. 
+Tempo de execução: 0.222192 s
+
+Merge Sort - Execução nº 33 
+1000000 elementos. 
+Tempo de execução: 0.222356 s
+
+Merge Sort - Execução nº 34 
+1000000 elementos. 
+Tempo de execução: 0.222379 s
+
+Merge Sort - Execução nº 35 
+1000000 elementos. 
+Tempo de execução: 0.222189 s
+
+Merge Sort - Execução nº 36 
+1000000 elementos. 
+Tempo de execução: 0.22261 s
+
+Merge Sort - Execução nº 37 
+1000000 elementos. 
+Tempo de execução: 0.222364 s
+
+Merge Sort - Execução nº 38 
+1000000 elementos. 
+Tempo de execução: 0.222251 s
+
+Merge Sort - Execução nº 39 
+1000000 elementos. 
+Tempo de execução: 0.223152 s
+
+Merge Sort - Execução nº 40 
+1000000 elementos. 
+Tempo de execução: 0.222012 s
+
+Merge Sort - Execução nº 41 
+1000000 elementos. 
+Tempo de execução: 0.222434 s
+
+Merge Sort - Execução nº 42 
+1000000 elementos. 
+Tempo de execução: 0.223271 s
+
+Merge Sort - Execução nº 43 
+1000000 elementos. 
+Tempo de execução: 0.222805 s
+
+Merge Sort - Execução nº 44 
+1000000 elementos. 
+Tempo de execução: 0.222535 s
+
+Merge Sort - Execução nº 45 
+1000000 elementos. 
+Tempo de execução: 0.222306 s
+
+Merge Sort - Execução nº 46 
+1000000 elementos. 
+Tempo de execução: 0.221763 s
+
+Merge Sort - Execução nº 47 
+1000000 elementos. 
+Tempo de execução: 0.222551 s
+
+Merge Sort - Execução nº 48 
+1000000 elementos. 
+Tempo de execução: 0.222383 s
+
+Merge Sort - Execução nº 49 
+1000000 elementos. 
+Tempo de execução: 0.221827 s
+
+Merge Sort - Execução nº 50 
+1000000 elementos. 
+Tempo de execução: 0.223347 s
+
+Merge Sort - Execução nº 1 
+10000000 elementos. 
+Tempo de execução: 2.44646 s
+
+Merge Sort - Execução nº 2 
+10000000 elementos. 
+Tempo de execução: 2.42077 s
+
+Merge Sort - Execução nº 3 
+10000000 elementos. 
+Tempo de execução: 2.42095 s
+
+Merge Sort - Execução nº 4 
+10000000 elementos. 
+Tempo de execução: 2.4238 s
+
+Merge Sort - Execução nº 5 
+10000000 elementos. 
+Tempo de execução: 2.42087 s
+
+Merge Sort - Execução nº 6 
+10000000 elementos. 
+Tempo de execução: 2.42149 s
+
+Merge Sort - Execução nº 7 
+10000000 elementos. 
+Tempo de execução: 2.43333 s
+
+Merge Sort - Execução nº 8 
+10000000 elementos. 
+Tempo de execução: 2.42366 s
+
+Merge Sort - Execução nº 9 
+10000000 elementos. 
+Tempo de execução: 2.42187 s
+
+Merge Sort - Execução nº 10 
+10000000 elementos. 
+Tempo de execução: 2.41958 s
+
+Merge Sort - Execução nº 11 
+10000000 elementos. 
+Tempo de execução: 2.42462 s
+
+Merge Sort - Execução nº 12 
+10000000 elementos. 
+Tempo de execução: 2.42387 s
+
+Merge Sort - Execução nº 13 
+10000000 elementos. 
+Tempo de execução: 2.4235 s
+
+Merge Sort - Execução nº 14 
+10000000 elementos. 
+Tempo de execução: 2.42095 s
+
+Merge Sort - Execução nº 15 
+10000000 elementos. 
+Tempo de execução: 2.42136 s
+
+Merge Sort - Execução nº 16 
+10000000 elementos. 
+Tempo de execução: 2.42191 s
+
+Merge Sort - Execução nº 17 
+10000000 elementos. 
+Tempo de execução: 2.42282 s
+
+Merge Sort - Execução nº 18 
+10000000 elementos. 
+Tempo de execução: 2.41954 s
+
+Merge Sort - Execução nº 19 
+10000000 elementos. 
+Tempo de execução: 2.4211 s
+
+Merge Sort - Execução nº 20 
+10000000 elementos. 
+Tempo de execução: 2.41976 s
+
+Merge Sort - Execução nº 21 
+10000000 elementos. 
+Tempo de execução: 2.42203 s
+
+Merge Sort - Execução nº 22 
+10000000 elementos. 
+Tempo de execução: 2.42149 s
+
+Merge Sort - Execução nº 23 
+10000000 elementos. 
+Tempo de execução: 2.42135 s
+
+Merge Sort - Execução nº 24 
+10000000 elementos. 
+Tempo de execução: 2.42193 s
+
+Merge Sort - Execução nº 25 
+10000000 elementos. 
+Tempo de execução: 2.42017 s
+
+Merge Sort - Execução nº 26 
+10000000 elementos. 
+Tempo de execução: 2.42229 s
+
+Merge Sort - Execução nº 27 
+10000000 elementos. 
+Tempo de execução: 2.42234 s
+
+Merge Sort - Execução nº 28 
+10000000 elementos. 
+Tempo de execução: 2.42139 s
+
+Merge Sort - Execução nº 29 
+10000000 elementos. 
+Tempo de execução: 2.42112 s
+
+Merge Sort - Execução nº 30 
+10000000 elementos. 
+Tempo de execução: 2.42066 s
+
+Merge Sort - Execução nº 31 
+10000000 elementos. 
+Tempo de execução: 2.4214 s
+
+Merge Sort - Execução nº 32 
+10000000 elementos. 
+Tempo de execução: 2.42077 s
+
+Merge Sort - Execução nº 33 
+10000000 elementos. 
+Tempo de execução: 2.42259 s
+
+Merge Sort - Execução nº 34 
+10000000 elementos. 
+Tempo de execução: 2.4205 s
+
+Merge Sort - Execução nº 35 
+10000000 elementos. 
+Tempo de execução: 2.42981 s
+
+Merge Sort - Execução nº 36 
+10000000 elementos. 
+Tempo de execução: 2.42183 s
+
+Merge Sort - Execução nº 37 
+10000000 elementos. 
+Tempo de execução: 2.42183 s
+
+Merge Sort - Execução nº 38 
+10000000 elementos. 
+Tempo de execução: 2.53209 s
+
+Merge Sort - Execução nº 39 
+10000000 elementos. 
+Tempo de execução: 2.60039 s
+
+Merge Sort - Execução nº 40 
+10000000 elementos. 
+Tempo de execução: 2.56855 s
+
+Merge Sort - Execução nº 41 
+10000000 elementos. 
+Tempo de execução: 2.57778 s
+
+Merge Sort - Execução nº 42 
+10000000 elementos. 
+Tempo de execução: 2.57272 s
+
+Merge Sort - Execução nº 43 
+10000000 elementos. 
+Tempo de execução: 2.56954 s
+
+Merge Sort - Execução nº 44 
+10000000 elementos. 
+Tempo de execução: 2.57126 s
+
+Merge Sort - Execução nº 45 
+10000000 elementos. 
+Tempo de execução: 2.5667 s
+
+Merge Sort - Execução nº 46 
+10000000 elementos. 
+Tempo de execução: 2.56946 s
+
+Merge Sort - Execução nº 47 
+10000000 elementos. 
+Tempo de execução: 2.57142 s
+
+Merge Sort - Execução nº 48 
+10000000 elementos. 
+Tempo de execução: 2.56382 s
+
+Merge Sort - Execução nº 49 
+10000000 elementos. 
+Tempo de execução: 2.56557 s
+
+Merge Sort - Execução nº 50 
+10000000 elementos. 
+Tempo de execução: 2.56215 s
+
+Merge Sort - Execução nº 1 
+100000000 elementos. 
+Tempo de execução: 27.8629 s
+
+Merge Sort - Execução nº 2 
+100000000 elementos. 
+Tempo de execução: 27.7882 s
+
+Merge Sort - Execução nº 3 
+100000000 elementos. 
+Tempo de execução: 27.858 s
+
+Merge Sort - Execução nº 4 
+100000000 elementos. 
+Tempo de execução: 27.8338 s
+
+Merge Sort - Execução nº 5 
+100000000 elementos. 
+Tempo de execução: 27.8881 s
+
+Merge Sort - Execução nº 6 
+100000000 elementos. 
+Tempo de execução: 27.8122 s
+
+Merge Sort - Execução nº 7 
+100000000 elementos. 
+Tempo de execução: 27.8687 s
+
+Merge Sort - Execução nº 8 
+100000000 elementos. 
+Tempo de execução: 27.7945 s
+
+Merge Sort - Execução nº 9 
+100000000 elementos. 
+Tempo de execução: 27.8424 s
+
+Merge Sort - Execução nº 10 
+100000000 elementos. 
+Tempo de execução: 27.8038 s
+
+Merge Sort - Execução nº 11 
+100000000 elementos. 
+Tempo de execução: 27.8094 s
+
+Merge Sort - Execução nº 12 
+100000000 elementos. 
+Tempo de execução: 27.8206 s
+
+Merge Sort - Execução nº 13 
+100000000 elementos. 
+Tempo de execução: 27.8464 s
+
+Merge Sort - Execução nº 14 
+100000000 elementos. 
+Tempo de execução: 27.7968 s
+
+Merge Sort - Execução nº 15 
+100000000 elementos. 
+Tempo de execução: 27.834 s
+
+Merge Sort - Execução nº 16 
+100000000 elementos. 
+Tempo de execução: 27.7871 s
+
+Merge Sort - Execução nº 17 
+100000000 elementos. 
+Tempo de execução: 27.8371 s
+
+Merge Sort - Execução nº 18 
+100000000 elementos. 
+Tempo de execução: 27.8482 s
+
+Merge Sort - Execução nº 19 
+100000000 elementos. 
+Tempo de execução: 27.8537 s
+
+Merge Sort - Execução nº 20 
+100000000 elementos. 
+Tempo de execução: 27.8038 s
+
+Merge Sort - Execução nº 21 
+100000000 elementos. 
+Tempo de execução: 27.8711 s
+
+Merge Sort - Execução nº 22 
+100000000 elementos. 
+Tempo de execução: 27.8086 s
+
+Merge Sort - Execução nº 23 
+100000000 elementos. 
+Tempo de execução: 27.8281 s
+
+Merge Sort - Execução nº 24 
+100000000 elementos. 
+Tempo de execução: 27.7786 s
+
+Merge Sort - Execução nº 25 
+100000000 elementos. 
+Tempo de execução: 27.863 s
+
+Merge Sort - Execução nº 26 
+100000000 elementos. 
+Tempo de execução: 27.8128 s
+
+Merge Sort - Execução nº 27 
+100000000 elementos. 
+Tempo de execução: 27.8143 s
+
+Merge Sort - Execução nº 28 
+100000000 elementos. 
+Tempo de execução: 27.8187 s
+
+Merge Sort - Execução nº 29 
+100000000 elementos. 
+Tempo de execução: 27.8498 s
+
+Merge Sort - Execução nº 30 
+100000000 elementos. 
+Tempo de execução: 27.8625 s
+
+Merge Sort - Execução nº 31 
+100000000 elementos. 
+Tempo de execução: 27.8326 s
+
+Merge Sort - Execução nº 32 
+100000000 elementos. 
+Tempo de execução: 27.8128 s
+
+Merge Sort - Execução nº 33 
+100000000 elementos. 
+Tempo de execução: 27.8845 s
+
+Merge Sort - Execução nº 34 
+100000000 elementos. 
+Tempo de execução: 27.8385 s
+
+Merge Sort - Execução nº 35 
+100000000 elementos. 
+Tempo de execução: 27.805 s
+
+Merge Sort - Execução nº 36 
+100000000 elementos. 
+Tempo de execução: 27.7935 s
+
+Merge Sort - Execução nº 37 
+100000000 elementos. 
+Tempo de execução: 27.8494 s
+
+Merge Sort - Execução nº 38 
+100000000 elementos. 
+Tempo de execução: 27.862 s
+
+Merge Sort - Execução nº 39 
+100000000 elementos. 
+Tempo de execução: 27.8101 s
+
+Merge Sort - Execução nº 40 
+100000000 elementos. 
+Tempo de execução: 27.8049 s
+
+Merge Sort - Execução nº 41 
+100000000 elementos. 
+Tempo de execução: 27.8396 s
+
+Merge Sort - Execução nº 42 
+100000000 elementos. 
+Tempo de execução: 27.9707 s
+
+Merge Sort - Execução nº 43 
+100000000 elementos. 
+Tempo de execução: 27.9189 s
+
+Merge Sort - Execução nº 44 
+100000000 elementos. 
+Tempo de execução: 27.9053 s
+
+Merge Sort - Execução nº 45 
+100000000 elementos. 
+Tempo de execução: 27.9076 s
+
+Merge Sort - Execução nº 46 
+100000000 elementos. 
+Tempo de execução: 27.8647 s
+
+Merge Sort - Execução nº 47 
+100000000 elementos. 
+Tempo de execução: 27.9086 s
+
+Merge Sort - Execução nº 48 
+100000000 elementos. 
+Tempo de execução: 27.8753 s
+
+Merge Sort - Execução nº 49 
+100000000 elementos. 
+Tempo de execução: 27.8822 s
+
+Merge Sort - Execução nº 50 
+100000000 elementos. 
+Tempo de execução: 27.8896 s
+

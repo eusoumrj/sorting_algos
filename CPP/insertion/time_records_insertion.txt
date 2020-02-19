@@ -1,0 +1,800 @@
+Insertion Sort - Execução nº 1 
+1000 elementos. 
+Tempo de execução: 0.00211686 s
+
+Insertion Sort - Execução nº 2 
+1000 elementos. 
+Tempo de execução: 0.00216526 s
+
+Insertion Sort - Execução nº 3 
+1000 elementos. 
+Tempo de execução: 0.00127447 s
+
+Insertion Sort - Execução nº 4 
+1000 elementos. 
+Tempo de execução: 0.00123355 s
+
+Insertion Sort - Execução nº 5 
+1000 elementos. 
+Tempo de execução: 0.00138894 s
+
+Insertion Sort - Execução nº 6 
+1000 elementos. 
+Tempo de execução: 0.00111865 s
+
+Insertion Sort - Execução nº 7 
+1000 elementos. 
+Tempo de execução: 0.00105467 s
+
+Insertion Sort - Execução nº 8 
+1000 elementos. 
+Tempo de execução: 0.00111253 s
+
+Insertion Sort - Execução nº 9 
+1000 elementos. 
+Tempo de execução: 0.00104138 s
+
+Insertion Sort - Execução nº 10 
+1000 elementos. 
+Tempo de execução: 0.00102014 s
+
+Insertion Sort - Execução nº 11 
+1000 elementos. 
+Tempo de execução: 0.00106251 s
+
+Insertion Sort - Execução nº 12 
+1000 elementos. 
+Tempo de execução: 0.0010128 s
+
+Insertion Sort - Execução nº 13 
+1000 elementos. 
+Tempo de execução: 0.00100629 s
+
+Insertion Sort - Execução nº 14 
+1000 elementos. 
+Tempo de execução: 0.0010378 s
+
+Insertion Sort - Execução nº 15 
+1000 elementos. 
+Tempo de execução: 0.00109012 s
+
+Insertion Sort - Execução nº 16 
+1000 elementos. 
+Tempo de execução: 0.00100268 s
+
+Insertion Sort - Execução nº 17 
+1000 elementos. 
+Tempo de execução: 0.00104327 s
+
+Insertion Sort - Execução nº 18 
+1000 elementos. 
+Tempo de execução: 0.00108953 s
+
+Insertion Sort - Execução nº 19 
+1000 elementos. 
+Tempo de execução: 0.00102078 s
+
+Insertion Sort - Execução nº 20 
+1000 elementos. 
+Tempo de execução: 0.00104507 s
+
+Insertion Sort - Execução nº 21 
+1000 elementos. 
+Tempo de execução: 0.00104512 s
+
+Insertion Sort - Execução nº 22 
+1000 elementos. 
+Tempo de execução: 0.00100263 s
+
+Insertion Sort - Execução nº 23 
+1000 elementos. 
+Tempo de execução: 0.00113382 s
+
+Insertion Sort - Execução nº 24 
+1000 elementos. 
+Tempo de execução: 0.00111722 s
+
+Insertion Sort - Execução nº 25 
+1000 elementos. 
+Tempo de execução: 0.00103475 s
+
+Insertion Sort - Execução nº 26 
+1000 elementos. 
+Tempo de execução: 0.0010859 s
+
+Insertion Sort - Execução nº 27 
+1000 elementos. 
+Tempo de execução: 0.000984105 s
+
+Insertion Sort - Execução nº 28 
+1000 elementos. 
+Tempo de execução: 0.00101506 s
+
+Insertion Sort - Execução nº 29 
+1000 elementos. 
+Tempo de execução: 0.00101706 s
+
+Insertion Sort - Execução nº 30 
+1000 elementos. 
+Tempo de execução: 0.00110232 s
+
+Insertion Sort - Execução nº 31 
+1000 elementos. 
+Tempo de execução: 0.00102323 s
+
+Insertion Sort - Execução nº 32 
+1000 elementos. 
+Tempo de execução: 0.00107274 s
+
+Insertion Sort - Execução nº 33 
+1000 elementos. 
+Tempo de execução: 0.00104281 s
+
+Insertion Sort - Execução nº 34 
+1000 elementos. 
+Tempo de execução: 0.000999196 s
+
+Insertion Sort - Execução nº 35 
+1000 elementos. 
+Tempo de execução: 0.001015 s
+
+Insertion Sort - Execução nº 36 
+1000 elementos. 
+Tempo de execução: 0.00121062 s
+
+Insertion Sort - Execução nº 37 
+1000 elementos. 
+Tempo de execução: 0.00107843 s
+
+Insertion Sort - Execução nº 38 
+1000 elementos. 
+Tempo de execução: 0.00109724 s
+
+Insertion Sort - Execução nº 39 
+1000 elementos. 
+Tempo de execução: 0.00107651 s
+
+Insertion Sort - Execução nº 40 
+1000 elementos. 
+Tempo de execução: 0.000983644 s
+
+Insertion Sort - Execução nº 41 
+1000 elementos. 
+Tempo de execução: 0.00109011 s
+
+Insertion Sort - Execução nº 42 
+1000 elementos. 
+Tempo de execução: 0.00112575 s
+
+Insertion Sort - Execução nº 43 
+1000 elementos. 
+Tempo de execução: 0.00101865 s
+
+Insertion Sort - Execução nº 44 
+1000 elementos. 
+Tempo de execução: 0.00103835 s
+
+Insertion Sort - Execução nº 45 
+1000 elementos. 
+Tempo de execução: 0.00107032 s
+
+Insertion Sort - Execução nº 46 
+1000 elementos. 
+Tempo de execução: 0.00101008 s
+
+Insertion Sort - Execução nº 47 
+1000 elementos. 
+Tempo de execução: 0.00100129 s
+
+Insertion Sort - Execução nº 48 
+1000 elementos. 
+Tempo de execução: 0.00102034 s
+
+Insertion Sort - Execução nº 49 
+1000 elementos. 
+Tempo de execução: 0.00103234 s
+
+Insertion Sort - Execução nº 50 
+1000 elementos. 
+Tempo de execução: 0.0010629 s
+
+Insertion Sort - Execução nº 1 
+10000 elementos. 
+Tempo de execução: 0.106705 s
+
+Insertion Sort - Execução nº 2 
+10000 elementos. 
+Tempo de execução: 0.102643 s
+
+Insertion Sort - Execução nº 3 
+10000 elementos. 
+Tempo de execução: 0.104346 s
+
+Insertion Sort - Execução nº 4 
+10000 elementos. 
+Tempo de execução: 0.103219 s
+
+Insertion Sort - Execução nº 5 
+10000 elementos. 
+Tempo de execução: 0.103277 s
+
+Insertion Sort - Execução nº 6 
+10000 elementos. 
+Tempo de execução: 0.103604 s
+
+Insertion Sort - Execução nº 7 
+10000 elementos. 
+Tempo de execução: 0.10416 s
+
+Insertion Sort - Execução nº 8 
+10000 elementos. 
+Tempo de execução: 0.10376 s
+
+Insertion Sort - Execução nº 9 
+10000 elementos. 
+Tempo de execução: 0.102109 s
+
+Insertion Sort - Execução nº 10 
+10000 elementos. 
+Tempo de execução: 0.10394 s
+
+Insertion Sort - Execução nº 11 
+10000 elementos. 
+Tempo de execução: 0.103614 s
+
+Insertion Sort - Execução nº 12 
+10000 elementos. 
+Tempo de execução: 0.102597 s
+
+Insertion Sort - Execução nº 13 
+10000 elementos. 
+Tempo de execução: 0.103259 s
+
+Insertion Sort - Execução nº 14 
+10000 elementos. 
+Tempo de execução: 0.103009 s
+
+Insertion Sort - Execução nº 15 
+10000 elementos. 
+Tempo de execução: 0.103623 s
+
+Insertion Sort - Execução nº 16 
+10000 elementos. 
+Tempo de execução: 0.105148 s
+
+Insertion Sort - Execução nº 17 
+10000 elementos. 
+Tempo de execução: 0.104056 s
+
+Insertion Sort - Execução nº 18 
+10000 elementos. 
+Tempo de execução: 0.103519 s
+
+Insertion Sort - Execução nº 19 
+10000 elementos. 
+Tempo de execução: 0.104293 s
+
+Insertion Sort - Execução nº 20 
+10000 elementos. 
+Tempo de execução: 0.103511 s
+
+Insertion Sort - Execução nº 21 
+10000 elementos. 
+Tempo de execução: 0.10419 s
+
+Insertion Sort - Execução nº 22 
+10000 elementos. 
+Tempo de execução: 0.104271 s
+
+Insertion Sort - Execução nº 23 
+10000 elementos. 
+Tempo de execução: 0.104072 s
+
+Insertion Sort - Execução nº 24 
+10000 elementos. 
+Tempo de execução: 0.101882 s
+
+Insertion Sort - Execução nº 25 
+10000 elementos. 
+Tempo de execução: 0.102752 s
+
+Insertion Sort - Execução nº 26 
+10000 elementos. 
+Tempo de execução: 0.103027 s
+
+Insertion Sort - Execução nº 27 
+10000 elementos. 
+Tempo de execução: 0.103302 s
+
+Insertion Sort - Execução nº 28 
+10000 elementos. 
+Tempo de execução: 0.104203 s
+
+Insertion Sort - Execução nº 29 
+10000 elementos. 
+Tempo de execução: 0.103076 s
+
+Insertion Sort - Execução nº 30 
+10000 elementos. 
+Tempo de execução: 0.103795 s
+
+Insertion Sort - Execução nº 31 
+10000 elementos. 
+Tempo de execução: 0.103675 s
+
+Insertion Sort - Execução nº 32 
+10000 elementos. 
+Tempo de execução: 0.102128 s
+
+Insertion Sort - Execução nº 33 
+10000 elementos. 
+Tempo de execução: 0.103346 s
+
+Insertion Sort - Execução nº 34 
+10000 elementos. 
+Tempo de execução: 0.10365 s
+
+Insertion Sort - Execução nº 35 
+10000 elementos. 
+Tempo de execução: 0.103327 s
+
+Insertion Sort - Execução nº 36 
+10000 elementos. 
+Tempo de execução: 0.102462 s
+
+Insertion Sort - Execução nº 37 
+10000 elementos. 
+Tempo de execução: 0.103707 s
+
+Insertion Sort - Execução nº 38 
+10000 elementos. 
+Tempo de execução: 0.103087 s
+
+Insertion Sort - Execução nº 39 
+10000 elementos. 
+Tempo de execução: 0.103484 s
+
+Insertion Sort - Execução nº 40 
+10000 elementos. 
+Tempo de execução: 0.102847 s
+
+Insertion Sort - Execução nº 41 
+10000 elementos. 
+Tempo de execução: 0.102046 s
+
+Insertion Sort - Execução nº 42 
+10000 elementos. 
+Tempo de execução: 0.103645 s
+
+Insertion Sort - Execução nº 43 
+10000 elementos. 
+Tempo de execução: 0.103576 s
+
+Insertion Sort - Execução nº 44 
+10000 elementos. 
+Tempo de execução: 0.102817 s
+
+Insertion Sort - Execução nº 45 
+10000 elementos. 
+Tempo de execução: 0.104434 s
+
+Insertion Sort - Execução nº 46 
+10000 elementos. 
+Tempo de execução: 0.103503 s
+
+Insertion Sort - Execução nº 47 
+10000 elementos. 
+Tempo de execução: 0.104371 s
+
+Insertion Sort - Execução nº 48 
+10000 elementos. 
+Tempo de execução: 0.103483 s
+
+Insertion Sort - Execução nº 49 
+10000 elementos. 
+Tempo de execução: 0.103428 s
+
+Insertion Sort - Execução nº 50 
+10000 elementos. 
+Tempo de execução: 0.1032 s
+
+Insertion Sort - Execução nº 1 
+100000 elementos. 
+Tempo de execução: 10.3429 s
+
+Insertion Sort - Execução nº 2 
+100000 elementos. 
+Tempo de execução: 10.4006 s
+
+Insertion Sort - Execução nº 3 
+100000 elementos. 
+Tempo de execução: 10.385 s
+
+Insertion Sort - Execução nº 4 
+100000 elementos. 
+Tempo de execução: 10.3583 s
+
+Insertion Sort - Execução nº 5 
+100000 elementos. 
+Tempo de execução: 10.3042 s
+
+Insertion Sort - Execução nº 6 
+100000 elementos. 
+Tempo de execução: 10.3037 s
+
+Insertion Sort - Execução nº 7 
+100000 elementos. 
+Tempo de execução: 10.3463 s
+
+Insertion Sort - Execução nº 8 
+100000 elementos. 
+Tempo de execução: 10.3842 s
+
+Insertion Sort - Execução nº 9 
+100000 elementos. 
+Tempo de execução: 10.4174 s
+
+Insertion Sort - Execução nº 10 
+100000 elementos. 
+Tempo de execução: 10.3676 s
+
+Insertion Sort - Execução nº 11 
+100000 elementos. 
+Tempo de execução: 10.3325 s
+
+Insertion Sort - Execução nº 12 
+100000 elementos. 
+Tempo de execução: 10.3276 s
+
+Insertion Sort - Execução nº 13 
+100000 elementos. 
+Tempo de execução: 10.3302 s
+
+Insertion Sort - Execução nº 14 
+100000 elementos. 
+Tempo de execução: 10.363 s
+
+Insertion Sort - Execução nº 15 
+100000 elementos. 
+Tempo de execução: 10.3752 s
+
+Insertion Sort - Execução nº 16 
+100000 elementos. 
+Tempo de execução: 10.3709 s
+
+Insertion Sort - Execução nº 17 
+100000 elementos. 
+Tempo de execução: 10.3169 s
+
+Insertion Sort - Execução nº 18 
+100000 elementos. 
+Tempo de execução: 10.3602 s
+
+Insertion Sort - Execução nº 19 
+100000 elementos. 
+Tempo de execução: 10.3237 s
+
+Insertion Sort - Execução nº 20 
+100000 elementos. 
+Tempo de execução: 10.4072 s
+
+Insertion Sort - Execução nº 21 
+100000 elementos. 
+Tempo de execução: 10.3283 s
+
+Insertion Sort - Execução nº 22 
+100000 elementos. 
+Tempo de execução: 10.3337 s
+
+Insertion Sort - Execução nº 23 
+100000 elementos. 
+Tempo de execução: 10.3587 s
+
+Insertion Sort - Execução nº 24 
+100000 elementos. 
+Tempo de execução: 10.3378 s
+
+Insertion Sort - Execução nº 25 
+100000 elementos. 
+Tempo de execução: 10.3403 s
+
+Insertion Sort - Execução nº 26 
+100000 elementos. 
+Tempo de execução: 10.3636 s
+
+Insertion Sort - Execução nº 27 
+100000 elementos. 
+Tempo de execução: 10.3686 s
+
+Insertion Sort - Execução nº 28 
+100000 elementos. 
+Tempo de execução: 10.3029 s
+
+Insertion Sort - Execução nº 29 
+100000 elementos. 
+Tempo de execução: 10.3509 s
+
+Insertion Sort - Execução nº 30 
+100000 elementos. 
+Tempo de execução: 10.3541 s
+
+Insertion Sort - Execução nº 31 
+100000 elementos. 
+Tempo de execução: 10.3505 s
+
+Insertion Sort - Execução nº 32 
+100000 elementos. 
+Tempo de execução: 10.3398 s
+
+Insertion Sort - Execução nº 33 
+100000 elementos. 
+Tempo de execução: 10.326 s
+
+Insertion Sort - Execução nº 34 
+100000 elementos. 
+Tempo de execução: 10.3181 s
+
+Insertion Sort - Execução nº 35 
+100000 elementos. 
+Tempo de execução: 10.346 s
+
+Insertion Sort - Execução nº 36 
+100000 elementos. 
+Tempo de execução: 10.4126 s
+
+Insertion Sort - Execução nº 37 
+100000 elementos. 
+Tempo de execução: 10.3827 s
+
+Insertion Sort - Execução nº 38 
+100000 elementos. 
+Tempo de execução: 10.3566 s
+
+Insertion Sort - Execução nº 39 
+100000 elementos. 
+Tempo de execução: 10.3572 s
+
+Insertion Sort - Execução nº 40 
+100000 elementos. 
+Tempo de execução: 10.3145 s
+
+Insertion Sort - Execução nº 41 
+100000 elementos. 
+Tempo de execução: 10.3613 s
+
+Insertion Sort - Execução nº 42 
+100000 elementos. 
+Tempo de execução: 10.344 s
+
+Insertion Sort - Execução nº 43 
+100000 elementos. 
+Tempo de execução: 10.348 s
+
+Insertion Sort - Execução nº 44 
+100000 elementos. 
+Tempo de execução: 10.3304 s
+
+Insertion Sort - Execução nº 45 
+100000 elementos. 
+Tempo de execução: 10.3409 s
+
+Insertion Sort - Execução nº 46 
+100000 elementos. 
+Tempo de execução: 10.354 s
+
+Insertion Sort - Execução nº 47 
+100000 elementos. 
+Tempo de execução: 10.349 s
+
+Insertion Sort - Execução nº 48 
+100000 elementos. 
+Tempo de execução: 10.3198 s
+
+Insertion Sort - Execução nº 49 
+100000 elementos. 
+Tempo de execução: 10.3607 s
+
+Insertion Sort - Execução nº 50 
+100000 elementos. 
+Tempo de execução: 10.3383 s
+
+Insertion Sort - Execução nº 1 
+1000000 elementos. 
+Tempo de execução: 1035.75 s
+
+Insertion Sort - Execução nº 2 
+1000000 elementos. 
+Tempo de execução: 1034.33 s
+
+Insertion Sort - Execução nº 3 
+1000000 elementos. 
+Tempo de execução: 1034.21 s
+
+Insertion Sort - Execução nº 4 
+1000000 elementos. 
+Tempo de execução: 1033.5 s
+
+Insertion Sort - Execução nº 5 
+1000000 elementos. 
+Tempo de execução: 984.905 s
+
+Insertion Sort - Execução nº 6 
+1000000 elementos. 
+Tempo de execução: 979.618 s
+
+Insertion Sort - Execução nº 7 
+1000000 elementos. 
+Tempo de execução: 980.997 s
+
+Insertion Sort - Execução nº 8 
+1000000 elementos. 
+Tempo de execução: 979.605 s
+
+Insertion Sort - Execução nº 9 
+1000000 elementos. 
+Tempo de execução: 979.917 s
+
+Insertion Sort - Execução nº 10 
+1000000 elementos. 
+Tempo de execução: 979.539 s
+
+Insertion Sort - Execução nº 11 
+1000000 elementos. 
+Tempo de execução: 979.614 s
+
+Insertion Sort - Execução nº 12 
+1000000 elementos. 
+Tempo de execução: 979.731 s
+
+Insertion Sort - Execução nº 13 
+1000000 elementos. 
+Tempo de execução: 980.254 s
+
+Insertion Sort - Execução nº 14 
+1000000 elementos. 
+Tempo de execução: 980.168 s
+
+Insertion Sort - Execução nº 15 
+1000000 elementos. 
+Tempo de execução: 979.227 s
+
+Insertion Sort - Execução nº 16 
+1000000 elementos. 
+Tempo de execução: 980.311 s
+
+Insertion Sort - Execução nº 17 
+1000000 elementos. 
+Tempo de execução: 979.197 s
+
+Insertion Sort - Execução nº 18 
+1000000 elementos. 
+Tempo de execução: 980.979 s
+
+Insertion Sort - Execução nº 19 
+1000000 elementos. 
+Tempo de execução: 979.93 s
+
+Insertion Sort - Execução nº 20 
+1000000 elementos. 
+Tempo de execução: 979.635 s
+
+Insertion Sort - Execução nº 21 
+1000000 elementos. 
+Tempo de execução: 980.364 s
+
+Insertion Sort - Execução nº 22 
+1000000 elementos. 
+Tempo de execução: 980.061 s
+
+Insertion Sort - Execução nº 23 
+1000000 elementos. 
+Tempo de execução: 979.5 s
+
+Insertion Sort - Execução nº 24 
+1000000 elementos. 
+Tempo de execução: 980.099 s
+
+Insertion Sort - Execução nº 25 
+1000000 elementos. 
+Tempo de execução: 980.627 s
+
+Insertion Sort - Execução nº 26 
+1000000 elementos. 
+Tempo de execução: 979.857 s
+
+Insertion Sort - Execução nº 27 
+1000000 elementos. 
+Tempo de execução: 980.31 s
+
+Insertion Sort - Execução nº 28 
+1000000 elementos. 
+Tempo de execução: 980.247 s
+
+Insertion Sort - Execução nº 29 
+1000000 elementos. 
+Tempo de execução: 979.823 s
+
+Insertion Sort - Execução nº 30 
+1000000 elementos. 
+Tempo de execução: 980.51 s
+
+Insertion Sort - Execução nº 31 
+1000000 elementos. 
+Tempo de execução: 978.997 s
+
+Insertion Sort - Execução nº 32 
+1000000 elementos. 
+Tempo de execução: 979.052 s
+
+Insertion Sort - Execução nº 33 
+1000000 elementos. 
+Tempo de execução: 981.116 s
+
+Insertion Sort - Execução nº 34 
+1000000 elementos. 
+Tempo de execução: 978.735 s
+
+Insertion Sort - Execução nº 35 
+1000000 elementos. 
+Tempo de execução: 981.23 s
+
+Insertion Sort - Execução nº 36 
+1000000 elementos. 
+Tempo de execução: 980.086 s
+
+Insertion Sort - Execução nº 37 
+1000000 elementos. 
+Tempo de execução: 980.453 s
+
+Insertion Sort - Execução nº 38 
+1000000 elementos. 
+Tempo de execução: 979.376 s
+
+Insertion Sort - Execução nº 39 
+1000000 elementos. 
+Tempo de execução: 980.333 s
+
+Insertion Sort - Execução nº 40 
+1000000 elementos. 
+Tempo de execução: 980.024 s
+
+Insertion Sort - Execução nº 41 
+1000000 elementos. 
+Tempo de execução: 980.402 s
+
+Insertion Sort - Execução nº 42 
+1000000 elementos. 
+Tempo de execução: 980.049 s
+
+Insertion Sort - Execução nº 43 
+1000000 elementos. 
+Tempo de execução: 980.473 s
+
+Insertion Sort - Execução nº 44 
+1000000 elementos. 
+Tempo de execução: 979.34 s
+
+Insertion Sort - Execução nº 45 
+1000000 elementos. 
+Tempo de execução: 980.794 s
+
+Insertion Sort - Execução nº 46 
+1000000 elementos. 
+Tempo de execução: 978.726 s
+
+Insertion Sort - Execução nº 47 
+1000000 elementos. 
+Tempo de execução: 979.162 s
+
+Insertion Sort - Execução nº 48 
+1000000 elementos. 
+Tempo de execução: 979.692 s
+
+Insertion Sort - Execução nº 49 
+1000000 elementos. 
+Tempo de execução: 979.776 s
+
+Insertion Sort - Execução nº 50 
+1000000 elementos. 
+Tempo de execução: 980.241 s
+
